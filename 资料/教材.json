@@ -1,0 +1,37 @@
+[
+  {
+    "id": "m1",
+    "version": "教材初稿",
+    "language": "zh",
+    "heading": "领取练习",
+    "text": "只有甲型机完成桌面安全检查，组员才可领取标为甲型的模拟卡。"
+  },
+  {
+    "id": "m2",
+    "version": "教材初稿",
+    "language": "vi",
+    "heading": "Nhận bài tập",
+    "text": "Chỉ học viên dùng máy loại A được nhận thẻ sau khi kiểm tra trên bàn."
+  },
+  {
+    "id": "m3",
+    "version": "教材初稿",
+    "language": "zh",
+    "heading": "补充",
+    "text": "乙型组的纸上练习可以免检查。两型都需要先读术语页。"
+  },
+  {
+    "id": "m4",
+    "version": "教材初稿",
+    "language": "vi",
+    "heading": "Ghi chú",
+    "text": "Nhóm loại B được miễn đọc trang thuật ngữ khi làm bài trên giấy."
+  },
+  {
+    "id": "m5",
+    "version": "教务更正",
+    "language": "vi",
+    "heading": "Ghi chú",
+    "text": "Nhóm loại B không cần kiểm tra bàn cho bài tập giấy. Cả hai nhóm phải đọc trang thuật ngữ."
+  }
+]

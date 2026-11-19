@@ -1,0 +1,14 @@
+{
+  "name": "bilingual-training-parity",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "课堂演练材料",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "test": "node --test",
+    "materials": "node materials.js"
+  }
+}

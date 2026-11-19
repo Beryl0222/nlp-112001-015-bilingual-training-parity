@@ -1,0 +1,26 @@
+[
+  {
+    "id": "v1",
+    "term": "地面检查",
+    "languages": "zh、vi",
+    "text": "kiểm tra trên bàn 在本课指桌面卡片核对，不在室外操作。"
+  },
+  {
+    "id": "v2",
+    "term": "甲型",
+    "languages": "zh、vi",
+    "text": "loại A 是器材代号，不等于甲组。"
+  },
+  {
+    "id": "c1",
+    "term": "周二甲班",
+    "languages": "zh、vi",
+    "text": "配甲型桌面机与纸张。甲乙两组用共读术语页。"
+  },
+  {
+    "id": "c2",
+    "term": "周四纸练",
+    "languages": "zh、vi",
+    "text": "不配桌面机，仅开放可纸上完成的练习。"
+  }
+]
